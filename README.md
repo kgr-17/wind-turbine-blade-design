@@ -8,7 +8,6 @@ This project involves designing and testing a small wind turbine blade using Sol
 ## Files Included
 - 📄 Final Report (LaTeX/PDF)
 - 🎞️ Presentation Slides
-- 🖼️ Fan Test Images
 - 🔩 STL Design Files
 
 ## Performance
